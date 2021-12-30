@@ -25,4 +25,7 @@ Forecasted chart as on 29/12/2021 + 30 days
 
 ![Stock Price Predictor]( https://github.com/bala-stack/lstm-nifty-prediction/blob/main/2.png)
 
+![Stock Price Predictor]( https://github.com/bala-stack/lstm-nifty-prediction/blob/main/3.png)
+
+![Stock Price Predictor]( https://github.com/bala-stack/lstm-nifty-prediction/blob/main/4.png)
 
