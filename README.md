@@ -1,9 +1,9 @@
 # lstm-nifty-prediction
 * Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning
 * Disclaimer: This is just a demonstration of using LSTM in predicting the future price of a stock market instrument and is a learning experience in application of data science in doing so.
-** Do not place your trades only based on this demonstration.
-** I am not responsible for any loses you might incur in doing so.
-** Market trends are determined by many factors many of which are beyond the scope of this exercise. So do responsible investing/ trading  
+* Do not place your trades only based on this demonstration.
+* I am not responsible for any loses you might incur in doing so.
+* Market trends are determined by many factors many of which are beyond the scope of this exercise. So do responsible investing/ trading  
 ## Project Overview
 
 Investment firms, hedge funds and even individuals have been using financial models to better understand market behaviour and make profitable investments and trades. A wealth of information is available in the form of historical stock prices and company performance data, suitable for machine learning algorithms to process.
