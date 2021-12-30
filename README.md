@@ -29,3 +29,20 @@ Forecasted chart as on 29/12/2021 + 30 days
 
 ![Stock Price Predictor]( https://github.com/bala-stack/lstm-nifty-prediction/blob/main/4.png)
 
+Things I have learnt by completing this project:
+* How to apply deep learning techniques: Long Short Term Memory Neural Network algorithms.
+* How to use keras-tensorflow library.
+* How to collect and pre-process given data.
+* How to analyse model's performance.
+* How to optimise Long Short Term Memory Neural Network algorithm, to ensure increase in positive results.
+
+## Software and Libraries
+This project uses the following software and Python libraries:
+
+* [Python 2.7](https://www.python.org/download/releases/2.7/)
+* [NumPy](http://www.numpy.org/)
+* [pandas](http://pandas.pydata.org/)
+* [Keras](https://keras.io/)
+* [Tensor-flow](https://www.tensorflow.org)
+* [Jupyter Notebook](http://ipython.org/notebook.html)
+
